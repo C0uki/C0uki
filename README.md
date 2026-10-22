@@ -45,8 +45,5 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=C0uki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0uki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=C0uki&theme=tokyonight&hide_border=true" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:2CB1F5,100:7F5AF0&height=120&section=footer" width="100%" />
