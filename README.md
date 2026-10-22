@@ -23,8 +23,8 @@
 ## 🚀 Featured
 
 <p align="center">
-  <a href="https://github.com/C0uki/Ohagey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=C0uki&repo=Ohagey&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/C0uki/beautiful-wallpaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=C0uki&repo=beautiful-wallpaper&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/C0uki/Ohagey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=C0uki&repo=Ohagey&theme=tokyonight&hide_border=true&cache_seconds=86400" /></a>
+  <a href="https://github.com/C0uki/beautiful-wallpaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=C0uki&repo=beautiful-wallpaper&theme=tokyonight&hide_border=true&cache_seconds=86400" /></a>
 </p>
 
 | | |
